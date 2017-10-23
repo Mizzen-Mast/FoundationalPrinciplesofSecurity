@@ -4,6 +4,9 @@ Domain Seperation in the broad sense is the seperation of distinct units into se
 
 #**Good Example: Justification** 
 I believe the good example is a correct demostration of domain seperation because it seperates out various aspects of the program into seperate domains. The writing to a a file is done in a seperate function(read domain) than the calculations. This leaves the calculations to run within their own domain and the file writing to occur within in its own domain. 
+
 #**Bad Example: Justification**
+The bad example is just of opposite of the good example. Every action is done in main, initialization of variables, calculation of production, and the writing to a file. This is a intersection of seperate domains that should be kept seperate. Also it makes the code harder to maintain and harder to read. 
 
 #**Picture: Justification**
+This picture is perfect representation of domain seperation. WHat your looking at  is a saltwater refugium. If you look at this particulate picture there are 4 seperate domains. The first domain, is where water enters the sump from the tank above. This domain is sperated by a series of baffles from the area of man made filtration. This area houses the protein skimmer which uses mechanical filtration to achieve it's goal. The 3rd area is seperated from the second again by baffles. The third domain is microbiological filtration through use of live rock. The fourth domain again is seperated from the third once again by baffles. This area is the return for the water in the main tank. There is also a fifth domain that interupts the return flow and runs as chemical filtration. This then returns water to the chemical filtration.
