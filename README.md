@@ -12,9 +12,10 @@ The purpose of this assignment was emphasize good practices of security in code 
 I followed the order of the principles as they were presented in class. 
 
 1. Domain Seperation
-- Domain Seperation is setting up and maintaining boundaries between distinct units.
+ -Domain Seperation is setting up and maintaining boundaries between distinct units.
 2. Process Isolation
 3. Resource Encapsulation
+ -Resource Encapsolution is the enclosing of resourses inside of a container with the express intent of restricting the use of that resource to be used only in the intended manner.  
 4. Least Privilege
 5. Modularity
 6. Layering
@@ -22,4 +23,3 @@ I followed the order of the principles as they were presented in class.
 8. Data Hiding
 9. Simplicity
 10. Minimization
-
