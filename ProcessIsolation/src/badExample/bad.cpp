@@ -1,6 +1,5 @@
 #include <fstream>
 
-//template<typename stream_type> 
 void processOne() {
 
 	std::fstream file ("bad.txt");
@@ -11,7 +10,6 @@ void processOne() {
 	}
 } 
 
-//template<typename stream_type> 
 void processTwo() {
 
 	std::fstream file ("bad.txt");
@@ -24,7 +22,6 @@ void processTwo() {
 
 int main() { 
 
-	
 	processOne();
 	processTwo();
 }

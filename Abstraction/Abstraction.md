@@ -20,4 +20,5 @@ void drive(double travel, double &initPosition) {
 Picture: Justification
 ----------------------
 A gas and brake pedal on a vehicle are a great example of abstraction. The driver isn't concerned with how the acceleration or braking happens, just that it does. This is removing the details of each action, abstracting, and just giving the driver the basic concept to deal with. 
+
 ![Abstraction Example](/Pictures/abstraction.jpg)

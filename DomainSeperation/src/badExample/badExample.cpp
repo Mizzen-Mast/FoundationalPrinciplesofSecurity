@@ -1,4 +1,4 @@
-//this is a good example of Domain seperation
+//this is a bad example of Domain seperation
 
 #include <iostream>
 #include <fstream>
