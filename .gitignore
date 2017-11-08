@@ -6,3 +6,4 @@
 
 #ignore compliled files
 *Run
+*.out
