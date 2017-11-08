@@ -18,6 +18,7 @@ I followed the order of the principles as they were presented in class.
 3. Resource Encapsulation
  - Resource Encapsolution is the enclosing of resourses inside of a container with the express intent of restricting the use of that resource to be used only in the intended manner.  
 4. Least Privilege
+ - Least Privilege is giving the least amount of access required to do the job. 
 5. Modularity
 6. Layering
 7. Abstraction
