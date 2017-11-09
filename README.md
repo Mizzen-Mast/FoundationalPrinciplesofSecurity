@@ -20,8 +20,14 @@ I followed the order of the principles as they were presented in class.
 4. Least Privilege
  - Least Privilege is giving the least amount of access required to do the job. 
 5. Modularity
+ - Modularity is seperating a system into seperate distinct units that can be removed, swapped or otherwise changed in an easy manner without a bunch of unnecessary overhead. 
 6. Layering
+ - Layering is setting up various stages that must be stepped through, the intended effect is segregating the system into seperate units so if the outer one is compromised the next layer down is till intact. 
 7. Abstraction
+ - Abstraction is hiding the fine details of a process behind a the general concept. 
 8. Data Hiding
+ - Data Hiding is denying the user access to the data. They can change the data in a means the developer allows in but thats it. They don't have direct access to it. 
 9. Simplicity
+ - Simplicity is keeping things as plain as possible. This means using concepts and practices well understood within a domain and leaving things from outside of that area out amongst other things. 
 10. Minimization
+ - Minimization is reducing the overall surface of the program, this can be from ports to extra unneeded code. 

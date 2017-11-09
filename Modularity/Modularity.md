@@ -60,6 +60,6 @@ This is a bad example of modularity. The code is in one solid block and changes 
 ```
 Picture: Justification
 ----------------------
-This picture is a great example of modularity. The house is built in a series of seperate units and one can remove and add different modules fairly easily. 
+This picture is a great example of modularity. The house is built in a series of seperate units and one can remove and add different modules fairly easily. This picture came from: [Modularity](https://www.kratosmsd.com)
 
-![Modularity](/Picture/modularity.jpg)
+![Modularity](/Pictures/modularity.jpg)

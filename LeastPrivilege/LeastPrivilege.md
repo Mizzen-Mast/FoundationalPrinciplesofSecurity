@@ -28,6 +28,6 @@ This code is a bad example of least privilege. It requests root privilege and th
 ```
 Picture: Justification
 ----------------------
-The picture represented here is a blue print of a jail. This while a bit dark is a great example of least privilege. Those who are incarcerated have absolutly no privilege to access anything except when allowed to, where it be their cell, common area, or library. 
+The picture represented here is a blue print of a jail. This while a bit dark is a great example of least privilege. Those who are incarcerated have absolutly no privilege to access anything except when allowed to, where it be their cell, common area, or library. [Minimization](https://www.pinsdaddy.com) 
 
 ![Least Privilage](/Pictures/leastPrivilege.jpg) 

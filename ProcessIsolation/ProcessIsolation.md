@@ -21,6 +21,6 @@ This example has 2 processes to and they booth operate on the same file(read mem
 ```
 Picture: Justification
 ---------------------
-This picture represents process isolation quite well. If you consider the area the house is being built in, the resources, the analogy can be made. You'll notice no two stages of building are being done at the time in the same area. IE the foundation isn't being pour will the framing is being placed. This mirrors process isolation perfectly, a process shouldn't be running on the same memory that another process is already using. 
+This picture represents process isolation quite well. If you consider the area the house is being built in, the resources, the analogy can be made. You'll notice no two stages of building are being done at the time in the same area. IE the foundation isn't being pour will the framing is being placed. This mirrors process isolation perfectly, a process shouldn't be running on the same memory that another process is already using. This image came from: [Giphy](https://media.giphy.com)
 
 ![Process Isolation](/Pictures/processIsolation.gif)
