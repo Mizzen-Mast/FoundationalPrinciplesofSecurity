@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
      int sockfd, newsockfd, portno, portno2;
      socklen_t clilen;
      char buffer[256];
-     struct sockaddr_in serv_addr, cli_addr;
+     struct sockaddr_in serv_addr, serv_addr2, cli_addr;
      int n;
      if (argc < 2) {
          fprintf(stderr,"ERROR, no port provided\n");
