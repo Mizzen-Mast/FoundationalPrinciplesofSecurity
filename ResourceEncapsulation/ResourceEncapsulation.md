@@ -14,4 +14,4 @@ Picture: Justification
 ----------------------
 This picture is the example of Encapsulation. Your varibles are contained in one area, as you functions are contained in another. This image was retrieved from: [SitesBay](https://www.sitesbay.com)
 
-![Resource Encapsulation](/Picture/resourceEncapsulation.png)
+![Resource Encapsulation](/Pictures/resourceEncapsulation.png)
