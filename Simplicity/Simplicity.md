@@ -29,4 +29,4 @@ while (a > 4) {
 Picture: Justification
 ----------------------
 This picture is the definition of simplicity. It has thing laid out in a sequential intuitive order that doesn't overly complicate things or add a bunch of extra fluff. This image was retrived from: [Octane Auto](https://ocataneauto.ca)
-![Justificaiton](/Pictures/simplicity.jpeg)
+![Justificaiton](/Pictures/simplicity.png)
